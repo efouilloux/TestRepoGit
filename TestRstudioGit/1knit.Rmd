@@ -1,0 +1,25 @@
+---
+title: "TestRstudioGit"
+author: "Emmanuelle"
+date: "16/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Premiers pas avec Rstudio et Github
+
+Les debuts sont compliqués...
+```{r}
+plot(cars)
+```
+
+Mais il ne faut pas *lacher*
+
+**Je rajoute des informations**
+
+*List1
+**List1A
+
